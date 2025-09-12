@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0.0.3",
   "apk_url": "https://github.com/marterp/ZipFlash-NoRoot/releases/download/v.1.0.0-beta.3/zf_1.0.0-beta.3.apk",
-  "changelog": "•Improved UI layout for module cards \n\n•Added stroke/border support for cards \n\n•Fixed white background issue inside CardView\n\n•Tweaked menu action items \n\n•General bug fixes & optimizations \n\n"
+  "changelog": "•Improved UI layout for module item\n -added description\n -added stroke/border support for modules\n\n•Fixed white background issue inside some dialog\n\n•Tweaked menu action items \n\n•General bug fixes & optimizations"
 }
