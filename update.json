@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0.3",
+  "latest_version": "1.0.0.4",
   "apk_url": "https://github.com/marterp/ZipFlash-NoRoot/releases/download/v1.0.0-beta.4/ZipFlash_1.0.0-beta.4.apk",
   "changelog": "✨ Improved UI layout for module items\nAdded descriptions for modules\n- Added stroke/border support for modules\n- Enhanced overall UI for a cleaner, more modern look\n\n⚙️ Added settings panel\n- Customizable options for better user control\n- Enhanced accessibility features\n\n🆕 Added new icons\n- Updated icons for modules and menu items\n- Improved visual consistency and style\n\n• Fixed white background issue inside some dialogs\n\n• Tweaked menu action items for smoother interaction\n\n🚀 General bug fixes & optimizations\n- Performance improvements\n- Minor UI adjustments for a polished appearance"
 }
