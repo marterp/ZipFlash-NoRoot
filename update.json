@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0.7.1",
+  "latest_version": "1.0.0.7.2",
   "apk_url": "https://github.com/marterp/ZipFlash-NoRoot/releases/download/v1.0.0-beta7/app.apk",
-  "changelog": "- New Update: Beta 7a Fixed Bugs\n\n- Module Manager Improvements\n• Fixed bugs when flashing modules\n• Adjusted settings behavior in Module Manager\n• Fixed issue where some modules could not be removed\n\n- Download Modules\n• Added new modules in the download section\n• Improved handling to prevent configuration override\n• Note: Avoid flashing too many modules at once to prevent settings conflicts — remove or disable unused modules before flashing new ones\n\n- General Updates\n• Minor performance improvements and stability fixes"
+  "changelog": "- New Update: Beta 7b – Bug Fixes\n\n- Download Module Improvements\n• Fixed module loading bugs\n• Adjusted download module behavior\n\n- Added Skip Option\n• Skip Shizuku permission to explore and download modules\n\n- Minor fixes and improvements"
 }
