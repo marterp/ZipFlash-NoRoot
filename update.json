@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0.0.7.2",
-  "apk_url": "https://github.com/marterp/ZipFlash-NoRoot/releases/download/v1.0.0-beta7/app.apk",
-  "changelog": "- New Update: Beta 7b – Bug Fixes\n\n- Download Module Improvements\n• Fixed module loading bugs\n• Adjusted download module behavior\n\n- Added Skip Option\n• Skip Shizuku permission to explore and download modules\n\n- Minor fixes and improvements"
+  "apk_url": "https://github.com/marterp/ZipFlash-NoRoot/releases/download/v1.0.0.8/app.apk",
+  "changelog": "- New Update!– Bug Fixes \n\n- App Icon Update\n• Refreshed app icon for a cleaner look\n\n- Module Manager\n• Fixed issues preventing removal of certain modules\n• Improved stability when managing modules\n\n- Settings\n• Added 'Clear Cache' option for easier maintenance\n\n- Minor Improvements\n• Optimized performance\n• Minor UI adjustments and bug fixed"
 }
