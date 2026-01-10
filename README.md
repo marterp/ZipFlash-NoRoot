@@ -26,7 +26,7 @@
 
 ## 📩 Support
 Encounter issues or have suggestions?  
-Open an issue here or contact: **misterp321nimda@gmail.com**
+Contact: **misterp321nimda@gmail.com**
 
 ---
 
